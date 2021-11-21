@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: 4-4.jpg
+alt: image-alt
+project-date: April 2014
+client: in-house design
+category: furniture
+description: Got nice shoes? You should have a nice way to store the. This 3 tier shoe rack helps keep things tidy and has the style to compliment your good fashion sense. Designed in house at d-i-ply. This item is currently sold as a kit only. The unit comes with all the parts, instructions and materials. There is some sanding required to clean the edges. The timber comes unsealed and varnish is provided for application.This kit requires gluing.
+---
+Got nice shoes? You should have a nice way to store the. This 3 tier shoe rack helps keep things tidy and has the style to compliment your good fashion sense. Designed in house at d-i-ply. This item is currently sold as a kit only. The unit comes with all the parts, instructions and materials. There is some sanding required to clean the edges. The timber comes unsealed and varnish is provided for application.This kit requires gluing.
