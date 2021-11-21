@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
+title: d-i-ply
+email: cameron@d-i-ply.com
+url: https://d-i-ply.com
+description: "d-i-ply is a CNC machining service that helps makers turn ideas to reality"
+keywords: "digital, fabrication, CNC, machining, custom"
 skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+meta_author: Stewart Cameron
 
 # Google webmaster tools
 google_verify:
@@ -25,17 +25,17 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: b28a2d #b28a2d
+  primary-rgb: "178,138,46" #"178,138,46"
+  secondary: 004e64 #004e64
+  secondary-dark: 2f3438 #2f3438
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: d-i-ply  
+  location: Auckland, New Zealand
   social: Around the Web
-  credits: Credits
+  credits: Cameron Stewart
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -52,8 +52,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 21 Newton Road, Grey Lynn
+  - line: Auckland, New Zealand
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
